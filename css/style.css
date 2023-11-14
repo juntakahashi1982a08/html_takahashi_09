@@ -1,0 +1,96 @@
+/* ここから下に記載していく */
+body {
+    fonr-size:16px;
+    text-align: center;
+}
+h1{
+    font-size: 24px;
+    line-height:30px;
+}
+h2{
+    font-size: 18px;
+    line-height:60px;
+}
+p{
+    
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+table,td,th{
+    border:1px #bfbfbf solid;
+}
+td{
+    width:240px;
+}
+.btn{
+background: #ffd61a;
+color: white;
+height:40px;
+width:180px;
+}
+.btm:hover{
+
+}
+    #header {
+    font-size:21px;
+    margin: 50px;
+
+}
+
+.mainvisual {
+text-align: center;
+position:relative;
+}
+.mainvisual-text{
+    color:white;
+    position:absolute;
+    top: 180px;
+    left: 600px;
+}
+
+.about {
+    line-height:40px;
+}
+
+.cource {
+  justify-content:center;  
+}
+.cource img{
+    
+}
+.cource1{
+    display:flex;
+    flex-direction:row;
+    align-items: left;
+    margin: 50px;
+    justify-content:left;
+}
+.cource2{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+
+}
+.cource3{
+display: flex;
+flex-direction: row;
+margin: 50px;
+}
+.news {
+
+}
+.news1 {
+
+
+}
+
+.access {
+background-color: #fafafa;
+}
+
+.contact {
+    line-height:30px;
+}
